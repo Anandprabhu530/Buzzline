@@ -1,13 +1,11 @@
-#Real Time Chat Application
+**Real Time Chat Application**
 
 Built with React, Firebase.
 
-Authetication included
-
 Try it out:
 
-Step1:
-`git clone `
+Step 1:
+`git clone https://github.com/Anandprabhu530/Real_Time_Chat_Application.git`
 
 Step 2:
 `npm install`
